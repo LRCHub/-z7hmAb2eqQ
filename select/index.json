@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "審美眼",
+  "base_artist": "和ぬか",
+  "createdAt": "2025-12-07T16:50:03.482481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "審美眼",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/01_審美眼_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "審美眼／和ぬか【Music Video】",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/02_審美眼_和ぬか【Music_Video】_和ぬか.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "審美眼",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_01_審美眼_和ぬか.txt"
+    }
+  ]
+}
